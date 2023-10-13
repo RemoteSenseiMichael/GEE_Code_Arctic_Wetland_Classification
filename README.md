@@ -1,6 +1,6 @@
 # GEE_Arctic_Wetland_Classification
 
-This code is for large-scale mapping of Arctic wetlands using multi-source Earth observation big data on Google Earth Engine with machine learning (Random Forest). The methodology tests both Object-Based Image Analysis (OBIA) and Pixel-Based Image Analysis (PBIA) techniques. This code is associated with the study titled: "Leveraging Google Earth Engine Cloud Computing for Large-scale Arctic Wetland Mapping", which has been published in the "International Journal of Applied Earth Observation and Geoinformation" journal. 
+This code is for large-scale mapping of Arctic wetlands using multi-source Earth observation big data on Google Earth Engine with machine learning (Random Forest). The methodology tests both Object-Based Image Analysis (OBIA) and Pixel-Based Image Analysis (PBIA) techniques. This code is associated with the study titled: "Leveraging Google Earth Engine Cloud Computing for Large-scale Arctic Wetland Mapping", which has been published in the "International Journal of Applied Earth Observation and Geoinformation" journal. This work was conducted jointly through the University of Guelph (UOG), Memorial University of Newfoundland (MUN), and the Canada Centre for Remote Sensing (CCRS).
 
 Citation:
 
