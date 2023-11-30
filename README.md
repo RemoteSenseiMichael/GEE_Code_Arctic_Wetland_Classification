@@ -4,7 +4,7 @@ This code, written using the Google Earth Engine (GEE) JavaScript API,  is for l
 
 Citation:
 
-Merchant, M., Brisco, B., Mahdianpari, M., Bourgeau-Chavez, L., Murnaghan, K., DeVries, B., Berg, A. (2023). Leveraging Google Earth Engine Cloud Computing for Large-scale Arctic Wetland Mapping.
+Merchant, M., Brisco, B., Mahdianpari, M., Bourgeau-Chavez, L., Murnaghan, K., DeVries, B., Berg, A. (2023). Leveraging Google Earth Engine Cloud Computing for Large-scale Arctic Wetland Mapping. International Journal of Applied Earth Observation and Geoinformation, 125, 103589.
 
 Baseline study citation:
 
